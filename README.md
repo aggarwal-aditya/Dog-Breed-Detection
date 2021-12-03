@@ -11,7 +11,7 @@ One of the key features of TLite is, it is optimized for on-device machine learn
 1. _Power Consumption_- Efficient inference and a lack of network connections 
 ---
 ### About the Model
-**I have developed a model to detect dog breeds**. The data for training was collected from the Stanford Dog Data Set available freely on Kaggle and Tensorflow Lite framework was used for Data Augmentation and Model building. The dataset in total has 120 classes of different dog breeds with around 150 images in each class.
+**I have developed a model to detect dog breeds. The data for training was collected from the Stanford Dog Data Set available freely on Kaggle and Tensorflow Lite framework was used for Data Augmentation and Model building. The dataset in total has 120 classes of different dog breeds with around 150 images in each class**.
 
 **The model achieved an accuracy of:**
 1. ***74.25% (Using ResNet 50)***- Average Training time per Epoch Cycle= 143 Seconds
